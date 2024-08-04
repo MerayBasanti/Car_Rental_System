@@ -1,0 +1,28 @@
+--Database Name: carrental--
+
+--Developed by Nikhil Amin--
+
+**Recommended PHP Version 5.6.3 and 7.4.12**
+
+
+--------------LOGIN DETAILS--------------
+
+**Customer Login Details**
+
+Username: lucas
+Password: password
+
+
+**Employee Login Details**
+
+Username: harry
+Password: password
+
+Username: jenny
+Password: jenny
+
+------------------------------------------DOWNLOADED MORE FROM HTTPS://WWW.ALPHACODECAMP.COM.NG --------------------------------------------
+------------------------------------------DOWNLOADED MORE FROM HTTPS://WWW.ALPHACODECAMP.COM.NG --------------------------------------------
+------------------------------------------DOWNLOADED MORE FROM HTTPS://WWW.ALPHACODECAMP.COM.NG --------------------------------------------
+------------------------------------------DOWNLOADED MORE FROM HTTPS://WWW.ALPHACODECAMP.COM.NG --------------------------------------------
+------------------------------------------DOWNLOADED MORE FROM HTTPS://WWW.ALPHACODECAMP.COM.NG --------------------------------------------
